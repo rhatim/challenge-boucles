@@ -1,0 +1,20 @@
+algorithme table de multiplication
+
+varriables
+   
+  n,i,c : entier
+ 
+ debut
+    i<- 1
+ 
+ ecrire('entrez un nomber')
+
+ lire (n)
+ 
+ c<- n*i++
+ 
+   tant que (i<=10)
+
+   ecrire('c')
+
+ fin
